@@ -1,0 +1,48 @@
+.form_text input {
+  width: 50px;
+  height: 30px;
+  margin: 0 5px 0 5px;
+  border: none;
+}
+
+hr.new4 {
+  border-top: 1px solid #aaaaaa;
+  width: 100%;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.centerize {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.centerize button {
+  background-color: #aaaaaa;
+  color: #eeeeee;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.centerize button:hover {
+  background-color: #ff0000;
+}
+
+.empty .style-three {
+  padding-top: 79px;
+}
+
+form select {
+  padding: 3px 10px;
+  font-size: 15px;
+}
+
+input {
+  margin: 10px;
+  padding: 3px 10px;
+  font-size: 15px;
+}

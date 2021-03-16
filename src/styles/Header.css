@@ -1,0 +1,32 @@
+.logo {
+  z-index: 110px;
+}
+
+header .logo {
+  width: 25px;
+  height: 22px;
+  margin-top: 15px;
+  margin-left: 15px;
+  background-color: lightblue;
+  padding: 10px;
+  position: absolute;
+}
+
+h1 {
+  font-size: 30px;
+  padding-left: 25px;
+  position: relative;
+  z-index: 10px;
+}
+
+hr.style-three {
+  border: 0;
+  border-bottom: 1px dashed #ccc;
+  z-index: 100;
+  padding-top: 13px;
+}
+
+.header {
+  grid-column: 1/-1;
+  grid-row: 1/2;
+}
