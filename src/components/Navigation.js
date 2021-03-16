@@ -7,7 +7,7 @@ const Navigation = () => {
     <nav className="nav">
       <ul>
         <li>
-          <NavLink exact to="/borrowedBooks">
+          <NavLink exact to="/">
             Książki wypożyczone
           </NavLink>
         </li>
